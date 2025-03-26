@@ -10,7 +10,8 @@
     </div>
     <div style="text-align:center;">
         <a href="{{ route('imc') }}" class="btn btn-primary">Calculo do IMC</a><br><br>
-        <a href="{{ route('sono') }}" class="btn btn-primary">Qualidade do Sono</a>
+        <a href="{{ route('sono') }}" class="btn btn-primary">Qualidade do Sono</a><br><br>
+        <a href="{{ route('viagem') }}" class="btn btn-primary">Consumo de Combustível</a><br><br>
     </div>
 </body>
 </html>
